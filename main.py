@@ -3,7 +3,7 @@ from ocho_puzzle import MatrizOchoRompeCabezas
 from dfs_Algoritmo import dfs_resolver
 from bfs_Algoritmo import bfs_resolver
 
-# Crear puzzle aleatorio
+
 p = MatrizOchoRompeCabezas()
 
 print("=== ESTADO INICIAL ===")
